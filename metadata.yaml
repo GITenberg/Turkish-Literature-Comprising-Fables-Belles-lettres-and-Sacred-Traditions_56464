@@ -1,5 +1,8 @@
 _repo: Turkish-Literature-Comprising-Fables-Belles-lettres-and-Sacred-Traditions_56464
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56464-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '4842'
     url: http://www.gutenberg.org/2009/agents/4842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56464#Turkish-Literature-Comprising-Fables-Belles-lettres-and-Sacred-Traditions
 gutenberg_issued: '2018-01-30'
 gutenberg_type: Text
 identifiers:
